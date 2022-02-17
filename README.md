@@ -39,3 +39,25 @@ Variance for n- cluster is found. (Inter Cluster Variance)
 
 <img width="893" alt="Screenshot 2022-02-17 at 12 25 24 PM" src="https://user-images.githubusercontent.com/94094997/154536777-98907580-484a-4820-a273-993cd21f596e.png">
 
+# Visualization of each cluster
+
+<img width="961" alt="Screenshot 2022-02-17 at 12 33 48 PM" src="https://user-images.githubusercontent.com/94094997/154538229-bbd16c79-dc87-4bf2-82a4-776327683181.png">
+
+# Parameters for DE
+
+<img width="603" alt="Screenshot 2022-02-17 at 12 36 14 PM" src="https://user-images.githubusercontent.com/94094997/154538673-afec5b61-d66a-4340-908a-8598f01844b1.png">
+
+# Sample Output
+
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/94094997/154538764-f96896e2-507d-4e4d-abd0-dae5f9fd7038.png">
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/94094997/154538805-82255898-fa22-4797-8373-0da35782a44c.png">
+
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/94094997/154538854-a8a34ed1-2abf-4bf0-8e5a-f43590afe6c0.png">
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/94094997/154538903-cfc164a6-49ef-493a-8102-4500344268d3.png">
+
+
+
+
+
