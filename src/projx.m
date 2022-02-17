@@ -1,5 +1,5 @@
 function main()
-img=imread('C:\Users\mohamed hussain\Desktop\color seg\images\flag7.jpg');
+img=imread('dataset\images\flag7.jpg');
 imshow(img);
 %img
 siz = size(img);
