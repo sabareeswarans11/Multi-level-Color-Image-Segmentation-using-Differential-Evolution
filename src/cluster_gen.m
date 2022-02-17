@@ -38,7 +38,7 @@ for i=1:s(1)
 end
 plot_no=2;
 for i=1:n
-    img=imread('C:\Users\mohamed hussain\Desktop\color seg\images\flag7.jpg');
+    img=imread('dataset/images/flag7.jpg');
     for ii=1:s(1)
     for jj=1:s(2)
         img(ii,jj,:)=[255 255 255];
