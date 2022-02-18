@@ -57,6 +57,10 @@ Variance for n- cluster is found. (Inter Cluster Variance)
 
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/94094997/154538903-cfc164a6-49ef-493a-8102-4500344268d3.png">
 
+# Research Work
+https://link.springer.com/chapter/10.1007/978-981-13-8196-6_27
+
+
 
 
 
